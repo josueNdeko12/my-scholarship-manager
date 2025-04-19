@@ -5,11 +5,13 @@ A simple PHP and MySQL web application that allows users to register, log in, an
 ---
 ## 🖼️ Demo 
 
-![image](https://github.com/user-attachments/assets/b25e6dc4-ebf9-446f-9cc0-0ee2da969b4c)
+![image](https://github.com/user-attachments/assets/ae1ae8bf-5089-429a-a69d-2a09d6fd1f8c)
 
-![image](https://github.com/user-attachments/assets/fa82fc79-f355-4bc5-a74e-cd545ed21fe7)
 
-![image](https://github.com/user-attachments/assets/13c378d7-b152-4cc1-90b0-77d79b3600f5)
+![image](https://github.com/user-attachments/assets/35c68a1e-2f8c-40ef-8615-3280434ddd75)
+
+
+![image](https://github.com/user-attachments/assets/15fc5331-0c77-4cff-a50d-8707fea5e74a)
 
 ---
 
